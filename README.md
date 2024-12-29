@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript error: assigning an array of strings to a variable of type string.  The `greeter` function expects a single string, but we're passing it an array.  The solution involves either modifying the function signature to accept an array, or modifying how the user variable is handled to pass a single string.
